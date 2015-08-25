@@ -1,6 +1,6 @@
 {
   "name": "ng-print",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/bhaal275/ng-print",
   "authors": [
     "bhaal275 <dominik.deren@windowslive.com>"
@@ -25,7 +25,7 @@
   "dependencies": {
     "html2canvas": "~0.4.1",
     "jspdf": "~1.0.178",
-    "angularjs": "~1.2.23",
+    "angular": "~1.2.23",
     "pixastic-crop": "*"
   },
   "devDependencies": {
